@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
 </div>
 
+## Codeforces
+<div align = "center"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=2nta_5laaas&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" alt="Codeforces Stats" />
+</div>
+    
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Awad12&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" />
@@ -33,4 +37,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-Awad12&theme=calm_pink&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Awad12&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br><br>
+
 </div>
