@@ -2,7 +2,7 @@
 <div align="center">
   <h2><strong>Mohamed Awad</strong></h2>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=600&lines=Competitive+Programmer;Web+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=600&lines=Competitive+Programmer;Web+Developer;" alt="Typing SVG" />
   </p>
   <p>Passionate about problem-solving, security, and Web Development.</p>
 </div>
