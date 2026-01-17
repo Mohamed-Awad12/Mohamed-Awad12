@@ -27,7 +27,7 @@
 </div>
 
 ## Codeforces
-<div align = "center"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=2nta_5laaas&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" alt="Codeforces Stats" />
+<div align = "center"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohamed_Awad&theme=github_dark&cache_seconds=86400">
 </div>
     
 ## GitHub Stats
